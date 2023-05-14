@@ -1,5 +1,5 @@
 
-easyshops.netlify.app
+https://easyshops.netlify.app
 
 ## Features
 
